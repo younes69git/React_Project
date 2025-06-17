@@ -49,7 +49,7 @@ npm install
 # 4. Create a .env file
 touch .env
 # Add your API key:
-# VITE_AI_TOKEN=your_token_here
+# VITE_AI_TOKEN= 'your_token_here' or you can use key directly in ai.js
 
 # 5. Start the dev server
 npm run dev
