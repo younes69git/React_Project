@@ -63,3 +63,5 @@ VITE_AI_TOKEN:	Your HuggingFace/OpenAI API token
 🤝 Contributing
 Pull requests are welcome! If you'd like to suggest improvements, feel free to fork and submit a PR.
 
+## 👨‍💻 Author
+[younes69git](https://github.com/younes69git)
