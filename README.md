@@ -1,13 +1,19 @@
-# React + Vite
+# 🥘 AI Recipe Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite-based web application that uses AI to generate delicious recipes based on your input or preferences.
 
-Currently, two official plugins are available:
+![Vite + React](https://img.shields.io/badge/Vite-React-blueviolet?logo=vite&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"ou can get a meal according to your recipe that you input it with using Ai api the hugging face" 
+> *Coming soon!* — Add a screenshot or GIF of your app here
+
+## 🚀 Features
+
+- 🧠 Generate recipes using AI (e.g. Hugging Face or OpenAI)
+- 🍽️ Dynamic ingredients and cooking steps
+- ⚡ Fast setup with Vite
+
+
